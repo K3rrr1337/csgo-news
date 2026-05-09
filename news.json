@@ -24,14 +24,6 @@
       "imageUrl": "file://{images}/store/default-news.png",
       "categories": []
     },
-    {
-      "title": "Очень важная информация",
-      "description": "yokiry душнила ебаная, в окно выпрыгни.",
-      "date": "2026-05-10",
-      "link": "https://steamcommunity.com/id/yokiry",
-      "imageUrl": "file://{images}/store/default-news.png",
-      "categories": []
-    }
   ],
   "lastUpdated": "2026-05-10T18:30:00Z",
   "version": "1.0",
