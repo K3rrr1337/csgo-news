@@ -16,6 +16,14 @@
       "imageUrl": "file://{images}/store/default-news.png",
       "categories": []
     }
+    {
+			"title": "Global Retake",
+			"description": "Global Retake is a competitive server, ranks, 128 tick",
+			"date": "2026-04-30",
+			"link": "https://globalretake.com",
+			"imageUrl": "file://{images}/store/default-news.png",
+			"categories": []
+		},	
   ],
   "lastUpdated": "2026-05-10T18:30:00Z",
   "version": "2.0",
