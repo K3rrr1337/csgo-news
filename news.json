@@ -1,1 +1,25 @@
+{
+  "news": [
+    {
+      "title": " Добро пожаловать в CSGO_GC (By Kerrr1337)",
+      "description": "Здесь публикуются все новости связанные с серверами из списка серверов сообщества, для полной информации, или добавления своей инфомации своего сервера в новости кликните по новости.",
+      "date": "2026-05-10",
+      "link": "https://discord.gg/tv49f4D4",
+      "imageUrl": "file://{images}/store/default-news.png",
+      "categories": []
+    },
+    {
+      "title": " Kerrr1337 BANNED in Global Retake",
+      "description": "Detected using advanced DLL with bypass viewmodel hands and animated clan-tag. Appeal in progress...",
+      "date": "2026-05-09",
+      "link": "https://github.com/K3rrr1337/csgo-news",
+      "imageUrl": "file://{images}/store/default-news.png",
+      "categories": []
+    }
+  ],
+  "lastUpdated": "2026-05-10T18:30:00Z",
+  "version": "2.0",
+  "author": "K3rrr1337",
+  "description": "Official news feed for Kerrr1337 CS:GO updates and announcements"
+}
 
