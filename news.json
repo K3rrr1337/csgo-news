@@ -9,17 +9,17 @@
       "categories": []
     },
     {
-      title: " Csgo_gc dlya vibe",
-      description: "Elo system server, 128 tick, elo-tier, season system",
-      date: "2026-03-30",
-      link: "https://discord.gg/q2XRkBUu",
-      imageUrl: "file://{images}/store/default-news.png",
-      categories: []
+      "title": " Csgo_gc dlya vibe",
+      "description": "Elo system server, 128 tick, elo-tier, season system",
+      "date": "2026-03-30",
+      "link": "https://discord.gg/q2XRkBUu",
+      "imageUrl": "file://{images}/store/default-news.png",
+      "categories": []
     }
   ],
-  lastUpdated: "2026-05-10T18:30:00Z",
-  version: "2.0",
-  author: "K3rrr1337",
-  description: "Official news feed for Kerrr1337 CS:GO updates and announcements"
+  "lastUpdated": "2026-05-10T18:30:00Z",
+  "version": "2.0",
+  "author": "K3rrr1337",
+  "description": "Official news feed for Kerrr1337 CS:GO updates and announcements"
 }
 
