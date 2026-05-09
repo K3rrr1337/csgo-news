@@ -1,20 +1,20 @@
 {
   "news": [
     {
-      "title": " Добро пожаловать в CSGO_GC (By Kerrr1337)",
-      "description": "Здесь публикуются все новости связанные с серверами из списка серверов сообщества, для полной информации, или добавления своей инфомации своего сервера в новости кликните по новости.",
-      "date": "2026-05-10",
-      "link": "https://discord.gg/tv49f4D4",
-      "imageUrl": "file://{images}/store/default-news.png",
-      "categories": []
+      title: " Добро пожаловать в CSGO_GC (By Kerrr1337)",
+      description: "Здесь публикуются все новости связанные с серверами из списка серверов сообщества, для полной информации, или добавления своей инфомации своего сервера в новости кликните по новости.",
+      date: "2026-05-10",
+      link: "https://discord.gg/tv49f4D4",
+      imageUrl: "file://{images}/store/default-news.png",
+      categories: []
     },
     {
-      "title": " Csgo_gc dlya vibe",
-      "description": "Elo system server, 128 tick, elo-tier, season system",
-      "date": "2026-03-30",
-      "link": "https://discord.gg/q2XRkBUu",
-      "imageUrl": "file://{images}/store/default-news.png",
-      "categories": []
+      title: " Csgo_gc dlya vibe",
+      description: "Elo system server, 128 tick, elo-tier, season system",
+      date: "2026-03-30",
+      link: "https://discord.gg/q2XRkBUu",
+      imageUrl: "file://{images}/store/default-news.png",
+      categories: []
     }
   ],
   "lastUpdated": "2026-05-10T18:30:00Z",
