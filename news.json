@@ -24,6 +24,14 @@
       "imageUrl": "file://{images}/store/default-news.png",
       "categories": []
     },
+    {
+      "title": "Это бета версия новосей.",
+      "description": "Новости еще дорабатывается. следите за обновлениями.",
+      "date": "2026-05-10",
+      "link": "https://discord.gg/tv49f4D4",
+      "imageUrl": "file://{images}/store/default-news.png",
+      "categories": []
+    }
   ],
   "lastUpdated": "2026-05-10T18:30:00Z",
   "version": "1.0",
