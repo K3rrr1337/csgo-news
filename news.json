@@ -25,11 +25,11 @@
       "categories": []
     },
     {
-      "title": "Это бета версия новостей.",
-      "description": "Новости еще дорабатывается. следите за обновлениями.",
+      "title": "Добро пожаловать в Запретную зону!",
+      "description": "Октрыт режим Запретной зоны для всех игроков в режиме (Игра с ботами)",
       "date": "2026-05-10",
       "link": "https://discord.gg/tv49f4D4",
-      "imageUrl": "file://{images}/store/default-news.png",
+      "imageUrl": "file://{images}/icons/ui/survival.svg",
       "categories": []
     }
   ],
