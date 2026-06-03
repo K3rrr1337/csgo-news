@@ -6,29 +6,29 @@
   "developers": [
     {
       "name": "kerrr1337",
-      "role": "Главный разработчик"
+      "role": "Главный Разработчик"
     },
     {
       "name": "kerrr1337",
       "role": "UI Дизайнер"
     },
     {
-      "name": "kerrr1337",
-      "role": "Backend Разработчик"
+      "name": "teto",
+      "role": "Мл. Разработчик"
     }
   ],
   "helpers": [
     {
       "name": "pepegog",
-      "role": "Комьюнити менеджер"
+      "role": "Гл. Тестер"
     },
     {
-      "name": "pepogog",
-      "role": "Бета тестер"
+      "name": ",,,",
+      "role": "Бета Тестер"
     },
     {
-      "name": "teto",
-      "role": "Контрибьютор"
+      "name": ",,,",
+      "role": "Блогер"
     }
   ]
 }
