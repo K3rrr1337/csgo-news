@@ -1,15 +1,23 @@
 {
   "news": [
     {
-      "title": "Добро пожаловать в CSGO_GC (By Kerrr1337)",
-      "description": "Здесь публикуются все новости связанные с серверами из списка серверов сообщества, для полной информации, или добавления своей информации своего сервера в новости кликните по новости.",
+      "title": "WElcome in CSGO_GC (By Kerrr1337)",
+      "description": "All server-related news is published here. To view or add your server's news, click on the news item.",
       "date": "2026-05-10",
+      "link": "https://discord.gg/fTF9MVp5",
+      "imageUrl": "file://{images}/operations/op9/mission_8.png",
+      "categories": []
+    },
+    {
+      "title": "LIMITED TEST MIRA_GC",
+      "description": "Beta test MIRA_GC",
+      "date": "2026-06-04",
       "link": "https://discord.gg/fTF9MVp5",
       "imageUrl": "file://{images}/operations/op9/mission_8.png",
       "categories": []
     }
   ],
-  "lastUpdated": "2026-05-10T18:30:00Z",
+  "lastUpdated": "2026-06-04T18:30:00Z",
   "version": "1.0",
   "author": "Kerrr1337",
   "description": "Official news feed for CSGO_GC community servers"
